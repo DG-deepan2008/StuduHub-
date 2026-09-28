@@ -1,0 +1,23 @@
+{
+  "name": "academic-study-hub-3sem",
+  "version": "1.0.0",
+  "description": "3rd Semester Academic Dashboard for Notes, Question Papers, and Attendance",
+  "scripts": {
+    "start": "node server/index.js",
+    "server": "node server/index.js",
+    "client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "install:all": "npm install --prefix server && npm install --prefix client"
+  },
+  "keywords": [
+    "student-dashboard",
+    "notes",
+    "question-papers",
+    "attendance",
+    "react",
+    "express",
+    "sqlite"
+  ],
+  "author": "Deepmind Antigravity",
+  "license": "MIT"
+}

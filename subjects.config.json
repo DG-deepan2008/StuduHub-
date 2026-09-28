@@ -1,0 +1,46 @@
+{
+  "subjects": [
+    {
+      "id": "sub_1",
+      "code": "SUB101",
+      "name": "SS",
+      "description": "Foundational course - Subject 1",
+      "color": "blue"
+    },
+    {
+      "id": "sub_2",
+      "code": "SUB102",
+      "name": "EDC",
+      "description": "Core concepts - Subject 2",
+      "color": "indigo"
+    },
+    {
+      "id": "sub_3",
+      "code": "SUB103",
+      "name": "EMF",
+      "description": "Advanced topics - Subject 3",
+      "color": "purple"
+    },
+    {
+      "id": "sub_4",
+      "code": "SUB104",
+      "name": "DLCD",
+      "description": "Applied theory - Subject 4",
+      "color": "cyan"
+    },
+    {
+      "id": "sub_5",
+      "code": "SUB105",
+      "name": "PYTHON",
+      "description": "Lab & Practice - Subject 5",
+      "color": "emerald"
+    },
+    {
+      "id": "sub_6",
+      "code": "SUB106",
+      "name": "MATHEMATICS",
+      "description": "Elective / Specialization - Subject 6",
+      "color": "rose"
+    }
+  ]
+}
